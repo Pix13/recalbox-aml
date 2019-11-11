@@ -4,4 +4,4 @@ Placez ici vos jeux DOOM 1 et 2 (et les mods associés).
 
 Placez ici vos jeux QUAKE 1, 2 et 3 (ou Star Trek Voyager: Elite Force Holomatch).
 
-Les jeux DOOM doivent avoir l'extension ".pak"
+Les jeux DOOM doivent avoir l'extension ".pak/.pk3"
