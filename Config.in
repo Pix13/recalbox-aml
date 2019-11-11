@@ -167,7 +167,7 @@ menu "Libretro Cores"
         source "$BR2_EXTERNAL_RECALBOX_PATH/package/libretro-tyrquake/Config.in"
         source "$BR2_EXTERNAL_RECALBOX_PATH/package/libretro-vitaquake2/Config.in"
         source "$BR2_EXTERNAL_RECALBOX_PATH/package/libretro-vitaquake3/Config.in"
-        source "$BR2_EXTERNAL_RECALBOX_PATH/package/libretro-vitaVoyager/Config.in"
+        source "$BR2_EXTERNAL_RECALBOX_PATH/package/libretro-vitavoyager/Config.in"
 endmenu
 endif
 menu "Doom packages"
