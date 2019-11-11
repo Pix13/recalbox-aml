@@ -4,8 +4,8 @@
 #
 ################################################################################
 
-LIBRETRO_VITAQUAKE2_VERSION = 40e4f445fb4db71c479f5d8d04d6cad7d98b4cb7
-LIBRETRO_VITAQUAKE2_SITE = $(call github,libretro,vitaquake3,$(LIBRETRO_VITAQUAKE3_VERSION))
+LIBRETRO_VITAQUAKE3_VERSION = 40e4f445fb4db71c479f5d8d04d6cad7d98b4cb7
+LIBRETRO_VITAQUAKE3_SITE = $(call github,libretro,vitaquake3,$(LIBRETRO_VITAQUAKE3_VERSION))
 
 define LIBRETRO_VITAQUAKE3_BUILD_CMDS
 	CFLAGS="$(TARGET_CFLAGS) $(COMPILER_COMMONS_CFLAGS_SO)" \
