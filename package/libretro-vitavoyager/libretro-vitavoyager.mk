@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-LIBRETRO_VITAVOYAGER_VERSION = 4662831ae4154135f682cf5d266aac5868017e43
+LIBRETRO_VITAVOYAGER_VERSION = 58b70dd7ea891c2e8ddc37d03a5d58116b0ea118
 LIBRETRO_VITAVOYAGER_SITE = $(call github,libretro,vitaVoyager,$(LIBRETRO_VITAVOYAGER_VERSION))
 
 define LIBRETRO_VITAVOYAGER_BUILD_CMDS
